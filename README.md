@@ -4,8 +4,30 @@
 
 Welcome to the official **RASA-X-MACHINA** and **tianxiaOS** Brand, Identity & Press Kit. Every asset in this directory is organized for immediate use by journalists, conference organizers, institutional partners, designers, and engineering teams.
 
+<!-- BUILD_LAW_SHOWCASE_START -->
+
 ---
 
+## 🌍 In Plain English — What `brand-kit` Is & Why It Matters (Layman's Guide)
+
+- **The Everyday Problem:** Journalists, conference organizers, and integration partners waste time hunting for clean logos, accurate product timelines, and accessible color tokens.
+- **How It Works (Without the Jargon):** `brand-kit` provides official vector lockups (`SVG`/`PNG`), Dark Obsidian (`#080808`) `WCAG 2.2 AA` color specifications, typography rules, and factual fact-sheets for **RASA-X-MACHINA**, **`tianxiaOS`**, and **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)**.
+- **Why It Is Different:** Single source of visual truth synchronized across GitHub, 28 web apps, terminal UIs, native Linux desktop apps, and investor/press decks.
+- **How It Benefits You:** Media, partners, and evaluators get publication-ready assets and verified company citations in one click.
+- **How to Install & Use It in 60 Seconds:** Browse directly on GitHub or download press assets at **[rasaxmachina.com/press](https://rasaxmachina.com/press)**.
+
+---
+
+## 🏛️ Governed by [`Build Law`](https://github.com/Tianxia-Core/Build-Law) — Engineering Philosophy & Stakeholder Pathways
+
+This repository is a live production showcase of **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)**—the open-source (`MIT`) **4-Pillar, 14-Gate Constitutional Engineering & `5.0×–8.8×` Token-Efficiency Standard** created by **[Collins Takem](https://rasaxmachina.com/collins)** (**RASA-X-MACHINA**):
+- **Developers & AI Builders:** Drop **[`Build Law`](https://github.com/Tianxia-Core/Build-Law)** into Claude Code, Cursor, OpenCode, VS Code (`.vsix`), GitHub Copilot, Windsurf, Cline, Aider, or any chat LLM in 60 seconds.
+- **CTOs & B2B Engineering Leaders:** Need similar `Rust`/`Go`/`Nix`/Security/FinOps rigor applied to your infrastructure? Scope a fixed-price **72-Hour `VRTTI` Architecture Sprint** at **[vrtti.rasaxmachina.com](https://vrtti.rasaxmachina.com)**.
+- **Investors, Researchers, Press & Executive Hiring Committees:** Inspect our cryptographic release proofs across **[`@Tianxia-Core`](https://github.com/Tianxia-Core)**, press assets at **[rasaxmachina.com/press](https://rasaxmachina.com/press)**, and founder dossier at **[rasaxmachina.com/collins](https://rasaxmachina.com/collins)**.
+
+<!-- BUILD_LAW_SHOWCASE_END -->
+
+---
 ## Quick Brand Summary
 
 | Brand Surface | Canonical Spelling | Typography | Gradient (`120deg`) | CSS Class |
